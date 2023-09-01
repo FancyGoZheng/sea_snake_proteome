@@ -1,0 +1,26 @@
+; Bootstrap partitions and frequencies are shown below.
+; Each partition is described by a string consisting of 0's and 1's
+; where the nth character in the partition string represents the
+; nth sequence in the input data. For a given partition, all sequences
+; represented by a 1 cluster together and all sequences represented by
+; a 0 cluster together.
+; The frequency indicates the proportion of bootstrap replicates
+; that give the same partition of sequences.
+; Any partitions whose frequency was less than the frequency
+; cutoff value have been excluded from these results.
+
+No_of_Taxa=14
+No_of_bootstrap_reps=1000
+Frequency_cutoff=50%
+
+11111111111100	100%
+11111110010000	78%
+11111110000000	69%
+11011110000000	82%
+11001110000000	100%
+11000000000000	80%
+00001110000000	95%
+00000110000000	100%
+00000001101100	98%
+00000001001100	82%
+00000000001100	100%

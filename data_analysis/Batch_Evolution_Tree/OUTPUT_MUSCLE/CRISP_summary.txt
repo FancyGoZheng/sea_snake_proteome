@@ -1,0 +1,51 @@
+;   MEGA-CC (Molecular Evolutionary Genetics Analysis Compute Core)
+;
+;   Suggested Citation for MEGA-CC 11:
+;
+;   Tamura K, Stecher G, and Kumar S.
+;   MEGA11: Molecular Evolutionary Genetics Analysis version 11.
+;   Molecular Biology and Evolution (2021) 38:3022-3027
+;
+;   Kumar S, Stecher G, Peterson D, and Tamura K
+;   MEGA-CC: Computing Core of Molecular Evolutionary Genetics Analysis Program for Automated and Iterative Data Analysis
+;   Bioinformatics (2012) 28:2685-2686 (Epub 2012 Aug 24)
+
+[Application Info]
+
+	Version                                 = 11.0.13
+	Build                                   = 11220624-x86_64
+	User Interface                          = CommandLine
+	Operating System                        = linux
+
+[General Info]
+
+	Data Type                               = amino acid
+	No. of Taxa                             =       14
+	Data File                               = 'input_data/fasta/CRISP.fa'
+	Settings File                           = './muscle_align_protein.mao'
+	Command Line                            = /usr/lib/mega/megacc -a muscle_align_protein.mao -d input_data/fasta/CRISP.fa -o OUTPUT_MUSCLE/CRISP -f MEGA
+
+[Analysis Settings]
+
+	Gap Penalties                           = ====================
+	Gap Open                                = -2.90
+	Gap Extend                              = 0.00
+	Hydrophobicity Multiplier               = 1.20
+	Memory/Iterations                       = ====================
+	Max Memory in MB                        = 10240
+	Max Iterations                          = 60
+	Advanced Options                        = ====================
+	Cluster Method (Iterations 1,2)         = UPGMA
+	Cluster Method (Other Iterations)       = UPGMA
+	Min Diag Length (Lambda)                = 24
+	datatype                                = snProtein
+	missingBaseSymbol                       = ?
+	identicalBaseSymbol                     = .
+	gapSymbol                               = -
+
+[Analysis Statistics]
+
+	Start Time                              = 2023年08月18日 下午 05时29分46秒 下午
+	End Time                                = 2023年08月18日 下午 05时29分46秒 下午
+	Execution Time                          =    0.359 (seconds)
+	Max Heap Memory Used                    = 16.039 (MB)

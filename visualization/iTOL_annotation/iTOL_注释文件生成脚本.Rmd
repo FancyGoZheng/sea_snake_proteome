@@ -1,0 +1,271 @@
+---
+title: "注释文件生成脚本"
+output: html_document
+date: "2023-08-26"
+---
+```{r 安装包}
+install.packages("Biostrings")
+install.packages("pak")
+pak::pak('itol.toolkit')
+pak::pak('TongZhou2017/itol.toolkit')
+install.packages("rlang")
+BiocManager::install("Biostrings",ask = T)
+BiocManager::install("GenomeInfoDbData",ask = T)
+install.packages("GenomeInfoDbData")
+install.packages("vctrs")
+install.packages("cli")
+library(GenomeInfoDbData)
+
+
+```
+
+
+```{r 加载包, include=FALSE}
+library(itol.toolkit)
+library(ape)
+library(ggsci)
+library(data.table)
+
+```
+
+```{r 读入进化树文件 }
+#tree <- read.tree("3FTx.nwk")
+tree <- read.tree("PLA2.nwk")
+hub <- create_hub(tree = tree)
+plot(tree)
+
+
+```
+
+```{r 获得树的节点名称,然后导出后手动分组}
+
+tree_node <- as.data.frame(hub@tree[["main"]][["tip.label"]])
+
+### 将结点变为两列数据框，并且修改列名为目标格式
+tree_node[,"group"] <- ""
+colnames(tree_node) <- c("template","group")
+
+
+### 写出文件，手动分组
+write.table(tree_node,"OUTPUT_template/PLA2_tree_group_ready.xls",sep = "\t",row.names = F)
+
+#### 此处有互动 需手动修改
+
+
+
+
+
+
+```
+
+```{r 读入分组文件}
+## 读入已经手动修改好的分组文件 
+tree_group<- read.table("OUTPUT_template/PLA2_tree_group_ready.xls",sep = "\t",header = T)
+
+```
+
+
+
+
+```{r 生成节点文字背景块颜色注释文件}
+
+  
+subtype <- c("range","clade", "branch", "label", "label_background")
+
+#### 当subtype为branch时，生成的是分支颜色
+i <- 1
+unit_7 <- create_unit(data = tree_group, 
+                      key = "E007_tree_colors_1", 
+                      type = "TREE_COLORS", 
+                      subtype = subtype[i],
+                      tree = tree
+                      ##生成的是结点名字
+                      #color = pal_npg(palette = c("nrc"), alpha = 1)(10),  使用table2itol时可以自动分组，使用其他参数不会自动分组
+                      )
+write_unit(unit_7,
+           paste0(getwd(),"/OUTPUT_template/pla2/E007_tree_colors_1_",subtype[i],".txt"))
+
+```
+
+```{r 将进化树分支上颜色 }
+
+unit_8 <- create_unit(data = tree_group, 
+                      key = "E008_tree_colors_2", 
+                      type = "TREE_COLORS", 
+                      subtype = "branch", 
+                      size_factor = 20, 
+                      tree = tree)
+write_unit(unit_8,
+           paste0(getwd(),"/OUTPUT_template/pla2/E008_tree_colors_2.txt"))
+
+
+
+```
+
+
+########### 热图数据准备
+
+```{r  读入已经准备好的热图数据 }
+tree_heat<- read.table("OUTPUT_template/pla2/heatmap_input/PLA2.txt",sep = "\t",header = T)
+## 注意要把第一列的名字换为树的节点名
+## 第一列为树节点名，第二列开始对应的是每个样本中的值
+```
+
+
+```{r 生成热图的注释数据}
+unit_15 <- create_unit(data = tree_heat, 
+                       key = "pla2_heatmap",
+                       type = "DATASET_HEATMAP", 
+                       tree = tree)
+write_unit(unit_15,
+           paste0(getwd(),"/OUTPUT_template/pla2/pla2_heatmap.txt"))
+
+
+
+```
+
+
+
+```{r 读入做柱状图的数据 }
+tree_bar <- fread("OUTPUT_template/pla2/bar_input/bar_INPUT.xls")# 此处必须为fread
+tree_bar$bar <- round(tree_bar$bar,3)
+
+#df_bar_NS$`NS-bar` <- round(df_bar_NS$`NS-bar`,3) # 控制数值为三位有效数字
+
+```
+
+
+```{r }
+unit_16 <- create_unit(data = tree_bar, 
+                       key = "PLA2_simplebar", 
+                       type = "DATASET_SIMPLEBAR",
+                       tree = tree)
+unit_16@specific_themes$basic_plot$size_max <- 100
+write_unit(unit_16,
+           paste0(getwd(),"/OUTPUT_template/pla2/bar_input/OUTPUT_bar.xls"))
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+```{r }
+
+```
+
+
+
+
+
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

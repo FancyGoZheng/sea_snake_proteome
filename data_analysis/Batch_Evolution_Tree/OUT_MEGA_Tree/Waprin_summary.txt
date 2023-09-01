@@ -1,0 +1,44 @@
+;   MEGA-CC (Molecular Evolutionary Genetics Analysis Compute Core)
+;
+;   Suggested Citation for MEGA-CC 11:
+;
+;   Tamura K, Stecher G, and Kumar S.
+;   MEGA11: Molecular Evolutionary Genetics Analysis version 11.
+;   Molecular Biology and Evolution (2021) 38:3022-3027
+;
+;   Kumar S, Stecher G, Peterson D, and Tamura K
+;   MEGA-CC: Computing Core of Molecular Evolutionary Genetics Analysis Program for Automated and Iterative Data Analysis
+;   Bioinformatics (2012) 28:2685-2686 (Epub 2012 Aug 24)
+
+
+; ****************************************************************************
+;        Please see the important message(s) at the bottom of this file 
+; ****************************************************************************
+
+[Application Info]
+
+	Version                                 = 11.0.13
+	Build                                   = 11220624-x86_64
+	User Interface                          = CommandLine
+	Operating System                        = linux
+
+[General Info]
+
+	Data Type                               = amino acid
+	No. of Taxa                             =        0
+	Data File                               = 'OUTPUT_MUSCLE/Waprin.meg'
+	Settings File                           = './infer_ML_amino_acid.mao'
+	Command Line                            = /usr/lib/mega/megacc -a infer_ML_amino_acid.mao -d OUTPUT_MUSCLE/Waprin.meg -o OUT_MEGA_Tree/Waprin
+
+[Analysis Statistics]
+
+	Start Time                              = 2023年08月22日 下午 05时29分02秒 下午
+	End Time                                = 2023年08月22日 下午 05时29分02秒 下午
+	Execution Time                          = 0.00E+000 (seconds)
+	Max Heap Memory Used                    = 16.044 (MB)
+
+
+; ****************************************************************************
+;                 Please note the following important messages:
+; ****************************************************************************
+;	Error: At least 3 taxa are required
