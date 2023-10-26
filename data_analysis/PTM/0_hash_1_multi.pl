@@ -10,22 +10,6 @@ while(<IN>){
 	{
 		print OUT "$mod","\t","$pep","\t","$_","\n";
 	}
-	#@name=split(/\t/,$_);
-	#print @name[0],"\t",@name[8],"\n";
-	#if(/>(\S+)/){$id=$1;$n++;next}#排除标题行的长度
-	#chomp;#出去行尾符对长度的影响
-	#$kid = $name[0];
-	#@gid111 = split(/\[/,$name[8]);
-	## 赋值给哈希
-	 
-	#$gid11  = split(/,\s/,@gid111);
-	#@gid = split(/,/,split(/\]/,split(/\[/,$name[8])));
-	#print "$kid","\n";
-	#print "@gid","\n";
-	#$kegg{$id}.=$_;#某contig序列
-	
 
-	#for(@gid){$go{$_}=$kid};
 }
-# foreach(sort {$go{$a}<=>$go{$b}}keys %go)
-# {print "$_->$go{$_}\n";};
+
