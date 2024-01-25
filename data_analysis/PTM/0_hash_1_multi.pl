@@ -13,3 +13,13 @@ while(<IN>){
 
 }
 
+## 读入一个文件，文件名为a.txt 文件的第一列读为哈希的键，第二列读为哈希的值
+# open IN, "a.txt";
+# while(<IN>){
+# 	chomp;
+# 	my($key,$value) = split(/\t/,$_);
+# 	$hash{$key} = $value;
+# }
+# close IN;
+#
+
