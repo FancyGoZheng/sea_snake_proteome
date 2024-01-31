@@ -1,0 +1,213 @@
+Gene ID	Chromosome	Start	End	Strand	"Length of the
+representative protein"	Closest homolog	abbr
+Hh01G000001	Chr1	46751	61101	-	160	Cysteine-rich venom protein 2 OS=Hydrophis hardwickii OX=8781 PE=2 SV=2|sp|Q8UW11|CRVP2_HYDHA	CRISP
+Hh01G000167	Chr1	6716373	6744090	+	1266	Phospholipase A2 inhibitor OS=Gloydius brevicaudus siniticus OX=31147 PE=1 SV=1|sp|O93233|PLIB_GLOBS	PLI
+Hh01G000184	Chr1	7480802	7492226	+	231	dipeptidyl peptidase 9-like [Notechis scutatus]|ref|XP_026544838.1	DPP
+Hh01G000186	Chr1	7515704	7569753	-	727	dipeptidyl peptidase 9 [Protobothrops mucrosquamatus]|ref|XP_015680975.1	DPP
+Hh01G000799	Chr1	63196377	63210926	+	132	placenta growth factor isoform X1 [Pseudonaja textilis]|ref|XP_026561025.1	PDGF
+Hh01G001200	Chr1	111010810	111011550	-	246	brain-derived neurotrophic factor [Notechis scutatus]|ref|XP_026520411.1	NGF
+Hh01G001428	Chr1	137071616	137196428	+	1144	Ryncolin-2 OS=Cerberus rynchops OX=46267 PE=1 SV=1|sp|D8VNS8|FCNV2_CERRY	Veficolin
+Hh01G001449	Chr1	138172053	138235837	-	1030	sn1-specific diacylglycerol lipase alpha [Notechis scutatus]|ref|XP_026538387.1	LIP
+Hh01G001590	Chr1	144279344	144279751	-	135	PA2c domain-containing protein (Fragment) OS=Ophiophagus hannah OX=8665 GN=L345_01439 PE=3 SV=1|tr|V8PFQ2|V8PFQ2_OPHHA	PLA2
+Hh01G001765	Chr1	161833787	161890939	-	448	inactive dipeptidyl peptidase 10 [Notechis scutatus]|ref|XP_026521123.1	DPP
+Hh01G001870	Chr1	184087186	184186361	-	776	dipeptidyl peptidase 4 isoform X2 [Notechis scutatus]|ref|XP_026530199.1	DPP
+Hh01G002258	Chr1	228974384	229005207	+	388	platelet-activating factor acetylhydrolase isoform X1 [Pseudonaja textilis]|ref|XP_026563500.1	LIP
+Hh01G002261	Chr1	229072785	229087395	-	507	bis(5'-adenosyl)-triphosphatase ENPP4-like isoform X1 [Pseudonaja textilis]|ref|XP_026563509.1	PDE
+Hh01G002297	Chr1	233029414	233043763	+	158	Cysteine-rich venom protein 1 OS=Hydrophis hardwickii OX=8781 PE=2 SV=2|sp|Q8UW25|CRVP1_HYDHA	CRISP
+Hh01G002701	Chr1	291689146	291698292	-	175	snake venom 5'-nucleotidase-like [Pseudonaja textilis]|ref|XP_026581084.1	5'-NT
+Hh01G002702	Chr1	291734122	291734871	-	148	snake venom 5'-nucleotidase-like [Notechis scutatus]|ref|XP_026548373.1	5'-NT
+Hh01G002703	Chr1	291811370	291848709	+	576	"5' nucleotidase, partial [Spilotes sulphureus]|gb|AXL95273.1"	5'-NT
+Hh01G002934	Chr1	321273777	321352955	+	889	ectonucleotide pyrophosphatase/phosphodiesterase family member 3 isoform X1 [Notechis scutatus]|ref|XP_026521895.1	PDE
+Hh01G002936	Chr1	321390434	321436087	+	648	ectonucleotide pyrophosphatase/phosphodiesterase family member 1 [Notechis scutatus]|ref|XP_026521897.1	PDE
+Hh01G003221	Chr1	354865513	354879188	-	368	glutaminyl-peptide cyclotransferase [Notechis scutatus]|ref|XP_026525152.1	QPCT
+Hh01G003269	Chr1	359977179	360007714	+	216	vascular endothelial growth factor A isoform X1 [Notechis scutatus]|ref|XP_026536898.1	PDGF
+Hh01G004111	Chr1	437326139	437332799	+	498	protein PROCA1 [Pseudonaja textilis]|ref|XP_026576965.1	PLA2
+Hh01G004154	Chr1	438333579	438339655	+	268	Acetylcholinesterase OS=Bungarus fasciatus OX=8613 GN=ACHE PE=1 SV=2|sp|Q92035|ACES_BUNFA	AChE/CES
+Hh02G004177	Chr2	109471	109960	-	150	Naja sputatrix weak neurotoxin 5 precursor (WNTX5)|gb|AY081761.1	3FTx
+Hh02G004717	Chr2	21932884	21952597	+	152	cysteine-rich venom protein pseudechetoxin-like [Notechis scutatus]|ref|XP_026546646.1	CRISP
+Hh02G005288	Chr2	45241618	45241806	+	62	Naja atra clone n061_6e_2 three-finger toxin precursor|gb|HM597715.2	3FTx
+Hh02G005355	Chr2	48113965	48120695	-	493	cholinesterase-like [Pseudonaja textilis]|ref|XP_026577946.1	AChE/CES
+Hh02G005356	Chr2	48147968	48162529	-	588	cholinesterase-like [Notechis scutatus]|ref|XP_026549379.1	AChE/CES
+Hh02G005366	Chr2	48486545	48489629	-	555	cholinesterase-like [Notechis scutatus]|ref|XP_026549379.1	AChE/CES
+Hh02G005387	Chr2	49243710	49270325	+	1127	acetylcholinesterase-like [Pseudonaja textilis]|ref|XP_026576545.1	AChE/CES
+Hh02G005388	Chr2	49280878	49295636	+	674	acetylcholinesterase-like isoform X2 [Notechis scutatus]|ref|XP_026541679.1	AChE/CES
+Hh02G005411	Chr2	49943453	49963591	+	468	L-amino-acid oxidase-like [Pseudonaja textilis]|ref|XP_026576551.1	LAAO
+Hh02G005413	Chr2	50012832	50022589	-	511	Amine oxidase (Fragment) OS=Ophiophagus hannah OX=8665 GN=L345_14746 PE=3 SV=1|tr|V8NB97|V8NB97_OPHHA	LAAO
+Hh02G005416	Chr2	50235388	50262544	+	521	L-amino-acid oxidase OS=Oxyuranus scutellatus scutellatus OX=8667 PE=2 SV=1|sp|Q4JHE3|OXLA_OXYSC	LAAO
+Hh02G005560	Chr2	67896052	67912995	-	164	prokineticin-2 [Pseudonaja textilis]|ref|XP_026578202.1	AVIT
+Hh02G005824	Chr2	101814938	101829136	+	496	hyaluronidase-4-like [Pseudonaja textilis]|ref|XP_026576766.1	GH56
+Hh02G005865	Chr2	106017942	106031515	+	474	hyaluronidase-2 [Pseudonaja textilis]|ref|XP_026581276.1	GH56
+Hh02G005866	Chr2	106052962	106061328	+	313	hyaluronidase-1 [Pseudonaja textilis]|ref|XP_026581286.1	GH56
+Hh02G005868	Chr2	106091567	106095788	+	429	hyaluronidase-3 [Notechis scutatus]|ref|XP_026529072.1	GH56
+Hh02G005974	Chr2	112325033	112328095	+	89	kazal-type inhibitor-like protein [Pseudonaja textilis]|ref|XP_026551930.1	KSPI
+Hh02G005976	Chr2	112437055	112437642	+	59	kazal-type inhibitor-like protein [Pseudonaja textilis]|ref|XP_026551930.1	KSPI
+Hh02G006592	Chr2	179062427	179085580	-	543	"Ectonucleotide pyrophosphatase/phosphodiesterase family member 7, partial [Ophiophagus hannah]|gb|ETE73595.1"	PDE
+Hh02G006820	Chr2	196323426	196328846	-	109	exendin-3-like [Pseudonaja textilis]|ref|XP_026573253.1	Exendin
+Hh02G007283	Chr2	223146213	223345889	-	2658	venom factor [Austrelaps superbus]|gb|AAX86641.1	VF
+Hh02G007394	Chr2	230833624	230862388	+	454	phospholipase A1 member A [Thamnophis sirtalis]|ref|XP_013922948.1	LIP
+Hh02G007415	Chr2	231778951	231784029	+	98	Cystatin-B [Ophiophagus hannah]|gb|ETE69273.1	CST
+Hh02G007546	Chr2	239611746	239625802	-	144	cystatin-F-like [Pseudonaja textilis]|ref|XP_026568527.1	CST
+Hh02G007641	Chr2	248714056	248742818	-	492	lipoprotein lipase isoform X1 [Pseudonaja textilis]|ref|XP_026574348.1	LIP
+Hh02G008330	Chr2	341611933	341625344	+	299	snake venom serine protease NaSP isoform X1 [Notechis scutatus]|ref|XP_026522175.1	SVSP
+Hh02G008398	Chr2	351002529	351040146	-	386	endothelial lipase [Notechis scutatus]|ref|XP_026522121.1	LIP
+Hh03G008612	Chr3	3281243	3284317	-	60	Long neurotoxin 2 OS=Hydrophis hardwickii OX=8781 PE=3 SV=1|sp|A3FM53|3L22_HYDHA	3FTx
+Hh03G008631	Chr3	4064088	4071259	+	117	Short neurotoxin SN160 OS=Hydrophis hardwickii OX=8781 PE=3 SV=1|sp|Q8UW27|3S116_HYDHA	3FTx
+Hh03G008685	Chr3	13117080	13142030	-	164	thyroglobulin [Pseudonaja textilis]|ref|XP_026559265.1	AChE/CES
+Hh03G008687	Chr3	13188203	13290537	-	1960	thyroglobulin [Pseudonaja textilis]|ref|XP_026559265.1	AChE/CES
+Hh03G008694	Chr3	13697308	13736658	+	538	otoconin-90-like [Notechis scutatus]|ref|XP_026534332.1	PLA2
+Hh03G008740	Chr3	20730830	20796690	+	935	ectonucleotide pyrophosphatase/phosphodiesterase family member 2 isoform X1 [Pseudonaja textilis]|ref|XP_026559380.1	PDE
+Hh03G008934	Chr3	42309118	42335724	-	519	cysteine-rich secretory protein LCCL domain-containing 1 [Notechis scutatus]|ref|XP_026547335.1	CRISP
+Hh03G008935	Chr3	42405319	42427254	-	258	peptidase inhibitor 15 [Pseudonaja textilis]|ref|XP_026561687.1	CRISP
+Hh03G009276	Chr3	84327504	84336191	-	120	endothelin-1 [Notechis scutatus]|ref|XP_026525685.1	EDN/SRTX
+Hh03G009331	Chr3	89596288	89617218	-	291	valacyclovir hydrolase [Pseudonaja textilis]|ref|XP_026570802.1	LIP
+Hh03G010215	Chr3	197621793	197623115	-	91	prokineticin-1 [Pseudonaja textilis]|ref|XP_026563068.1	AVIT
+Hh03G010271	Chr3	200901223	200930272	-	513	peptidase inhibitor 16-like [Pseudonaja textilis]|ref|XP_026572730.1	CRISP
+Hh03G010457	Chr3	218880699	218881430	-	243	Venom nerve growth factor 1 OS=Hoplocephalus stephensii OX=196418 PE=2 SV=1|sp|Q3HXY0|NGFV1_HOPST	NGF
+Hh03G010458	Chr3	218918712	218919434	-	240	Venom nerve growth factor 1 OS=Pseudonaja textilis OX=8673 PE=2 SV=1|sp|Q3HXY9|NGFV1_PSETE	NGF
+Hh03G010622	Chr3	233995282	233999037	+	116	waprin-Enh1 [Pseudonaja textilis]|ref|XP_026553098.1	Waprin
+Hh03G010642	Chr3	235145745	235155540	-	205	peptidase inhibitor R3HDML [Pseudonaja textilis]|ref|XP_026553090.1	CRISP
+Hh03G010743	Chr3	248358974	248382903	+	172	endothelin-3 [Pseudonaja textilis]|ref|XP_026553071.1	EDN/SRTX
+Hh03G010919	Chr3	264709176	264711550	-	259	Dromaius novaehollandiae papilin-like (LOC112987288)|ref|XM_026107095.1	vKUN
+Hh03G010920	Chr3	264731917	264740625	-	128	fused toxin protein-like [Notechis scutatus]|ref|XP_026545967.1	vKUN
+Hh03G010921	Chr3	264759411	264778506	-	131	Kunitz-type serine protease inhibitor 5 OS=Daboia russelii OX=8707 PE=2 SV=1|sp|Q2ES46|VKT5_DABRR	vKUN
+Hh03G010922	Chr3	264796600	264819658	-	226	fused toxin protein-like [Notechis scutatus]|ref|XP_026545967.1	vKUN
+Hh03G010924	Chr3	264841322	264841974	-	71	protease inhibitor [Daboia siamensis]|gb|AFA90080.1	vKUN
+Hh03G010925	Chr3	264852568	264856403	-	152	kunitz/BPTI-like toxin [Pseudonaja textilis]|ref|XP_026579465.1	vKUN
+Hh03G010927	Chr3	264951406	264964047	+	205	waprin-Phi1-like [Notechis scutatus]|ref|XP_026546251.1	Waprin
+Hh03G010930	Chr3	265019978	265020226	+	82	papilin-like [Pseudonaja textilis]|ref|XP_026580480.1	vKUN
+Hh03G010931	Chr3	265026083	265031875	+	245	papilin-like [Pseudonaja textilis]|ref|XP_026580479.1	vKUN
+Hh03G010932	Chr3	265061657	265069792	+	178	kunitz-type serine protease inhibitor bitisilin-3-like [Notechis scutatus]|ref|XP_026546828.1	vKUN
+Hh03G010933	Chr3	265070903	265080527	-	172	eppin-like [Pseudonaja textilis]|ref|XP_026580102.1	vKUN
+Hh03G010935	Chr3	265129838	265143253	+	139	BPTI/Kunitz domain-containing protein-like isoform X2 [Pseudonaja textilis]|ref|XP_026579405.1	vKUN
+Hh03G010936	Chr3	265144769	265149777	+	101	PI-actitoxin-Axm2b-like [Notechis scutatus]|ref|XP_026550237.1	vKUN
+Hh03G010939	Chr3	265219851	265225970	+	144	"BPTI/Kunitz domain-containing protein-like, partial [Pseudonaja textilis]|ref|XP_026579407.1"	vKUN
+Hh03G010940	Chr3	265268200	265273629	+	320	BPTI/Kunitz domain-containing protein-like [Notechis scutatus]|ref|XP_026549755.1	vKUN
+Hh04G011038	Chr4	3781596	3796807	-	159	Natriuretic peptide BM026 OS=Bungarus multicinctus OX=8616 PE=2 SV=1|sp|P0DMD5|VNP_BUNMU	NP
+Hh04G011158	Chr4	16630110	16642561	-	553	neuroligin-1 isoform X4 [Notechis scutatus]|ref|XP_026522318.1	AChE/CES
+Hh04G011159	Chr4	17273792	17274235	-	147	neuroligin-1 isoform X1 [Pseudonaja textilis]|ref|XP_026561528.1	AChE/CES
+Hh04G011201	Chr4	23159847	23161373	+	508	cholinesterase isoform X2 [Notechis scutatus]|ref|XP_026521721.1	AChE/CES
+Hh04G011291	Chr4	32699515	32737577	+	1062	Hephaestin-like protein 1 [Ophiophagus hannah]|gb|ETE61399.1	MCO
+Hh04G011659	Chr4	67570985	67620153	+	820	"Pancreatic lipase-related protein 1, partial [Ophiophagus hannah]|gb|ETE70823.1"	LIP
+Hh04G011817	Chr4	88055745	88119453	+	415	putative lysosomal acid lipase/cholesteryl ester hydrolase [Pseudonaja textilis]|ref|XP_026566278.1	LIP
+Hh04G011823	Chr4	88496117	88605665	-	1578	putative lysosomal acid lipase/cholesteryl ester hydrolase [Notechis scutatus]|ref|XP_026542939.1	LIP
+Hh04G011825	Chr4	88657231	88722421	-	566	"lipase member M-like, partial [Notechis scutatus]|ref|XP_026546749.1"	LIP
+Hh04G011826	Chr4	88748411	88777739	+	391	lipase member M-like [Protobothrops mucrosquamatus]|ref|XP_015687359.1	LIP
+Hh04G011827	Chr4	88794656	88823204	+	392	lipase member M-like [Protobothrops mucrosquamatus]|ref|XP_015687358.1	LIP
+Hh04G011828	Chr4	88852867	88906171	-	697	lipase member K-like isoform X2 [Notechis scutatus]|ref|XP_026542541.1	LIP
+Hh04G011863	Chr4	94207560	94229678	+	203	group XIIB secretory phospholipase A2-like protein isoform X1 [Pseudonaja textilis]|ref|XP_026569289.1	PLA2
+Hh04G011985	Chr4	106767622	106775786	-	168	PLIalpha-like protein [Notechis scutatus]|ref|XP_026534175.1	PLI
+Hh04G011988	Chr4	106889864	106894642	-	168	PLIalpha-like protein [Notechis scutatus]|ref|XP_026534174.1	PLI
+Hh04G012224	Chr4	132719947	132730988	+	449	hyaluronidase-2-like isoform X1 [Notechis scutatus]|ref|XP_026524834.1	GH56
+Hh04G012225	Chr4	132768202	132773245	+	460	hyaluronidase-4-like [Pseudonaja textilis]|ref|XP_026569890.1	GH56
+Hh04G012236	Chr4	135987921	135995748	+	220	phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein-like [Notechis scutatus]|ref|XP_026524781.1	PLI
+Hh04G012345	Chr4	149628313	149629074	-	253	neurotrophin-3 [Pseudonaja textilis]|ref|XP_026557738.1	NGF
+Hh04G012535	Chr4	165470062	165492957	+	320	"Glioma pathogenesis-related protein 1, partial [Ophiophagus hannah]|gb|ETE66785.1"	CRISP
+Hh04G012675	Chr4	179182995	179221056	-	485	phospholipase B-like 1 [Notechis scutatus]|ref|XP_026550416.1	PLB
+Hh04G012738	Chr4	182454680	182473923	+	244	platelet-derived growth factor subunit B [Pseudonaja textilis]|ref|XP_026552244.1	PDGF
+Hh04G013138	Chr4	217162738	217171397	+	161	"C-type lectin-like, partial [Pseudonaja textilis]|ref|XP_026579614.1"	vLEC
+Hh04G013142	Chr4	217448331	217457542	-	173	C-type lectin 1 OS=Hydrophis hardwickii OX=8781 PE=2 SV=1|sp|A3FM55|LECM1_HYDHA	vLEC
+Hh04G013143	Chr4	217487014	217498860	-	172	C-type lectin isoform 1 [Parasuta nigriceps]|gb|ACY68717.1	vLEC
+Hh04G013144	Chr4	217504058	217509527	-	165	C-type lectin lectoxin-Lio1-like [Notechis scutatus]|ref|XP_026546165.1	vLEC
+Hh04G013146	Chr4	217530949	217532627	-	88	venom C-type lectin mannose binding isoform 4 [Hoplocephalus stephensii]|gb|ABP94114.1	vLEC
+Hh04G013157	Chr4	217733709	217741046	-	173	C-type lectin lectoxin-Thr1-like [Notechis scutatus]|ref|XP_026546815.1	vLEC
+Hh04G013159	Chr4	217816493	217821645	+	203	C-type lectin OS=Phalotris mertensi OX=1260334 PE=4 SV=1|tr|A0A175KDZ1|A0A175KDZ1_9SAUR	vLEC
+Hh04G013160	Chr4	217864582	217917512	+	685	RecName: Full=C-type lectin mannose-binding isoform; Short=CTL; AltName: Full=Venom C-type lectin mannose binding isoform 1; Flags: Precursor [Tropidechis carinatus]|sp|D2YVJ8.1	vLEC
+Hh04G013161	Chr4	217920542	217922471	-	119	C-type lectin mannose-binding isoform-like [Notechis scutatus]|ref|XP_026547932.1	vLEC
+Hh04G013162	Chr4	217942684	217948594	-	136	C-type lectin mannose-binding isoform-like [Pseudonaja textilis]|ref|XP_026579444.1	vLEC
+Hh04G013164	Chr4	217962580	217994548	+	443	C-type lectin mannose-binding isoform-like [Pseudonaja textilis]|ref|XP_026579445.1	vLEC
+Hh05G013235	Chr5	5178	5564	-	128	COesterase domain-containing protein (Fragment) OS=Ophiophagus hannah OX=8665 GN=L345_17732 PE=4 SV=1|tr|V8N4U3|V8N4U3_OPHHA	AChE/CES
+Hh05G013236	Chr5	31757	33004	-	221	"neuroligin-1-like, partial [Notechis scutatus]|ref|XP_026547741.1"	AChE/CES
+Hh05G013689	Chr5	19004929	19037500	+	376	C-type lectin-like [Notechis scutatus]|ref|XP_026543201.1	vLEC
+Hh05G013690	Chr5	19078914	19086120	+	204	C-type lectin BpLec-like isoform X1 [Notechis scutatus]|ref|XP_026546860.1	vLEC
+Hh05G014130	Chr5	37070979	37084132	+	321	"Neurotrophin-4, partial [Ophiophagus hannah]|gb|ETE70952.1"	NGF
+Hh05G014174	Chr5	39008400	39012378	+	90	goannatyrotoxin-Vere1-like [Pseudonaja textilis]|ref|XP_026566687.1	NPY
+Hh05G014808	Chr5	97562640	97573638	-	102	pro-neuropeptide Y isoform X2 [Pseudonaja textilis]|ref|XP_026562012.1	NPY
+Hh05G015075	Chr5	127437912	127458470	+	165	Golgi-associated plant pathogenesis-related protein 1 [Pseudonaja textilis]|ref|XP_026558160.1	CRISP
+Hh05G015393	Chr5	167291795	167294791	-	117	cathelin-related peptide SC5-like [Pseudonaja textilis]|ref|XP_026581860.1	CATH
+Hh05G015394	Chr5	167309111	167312094	+	140	CATHPb4 antimicrobial peptide [Python bivittatus]|gb|AVI24170.1	CATH
+Hh05G015395	Chr5	167314691	167379528	+	970	Cathelicidin-related peptide Oh-Cath OS=Ophiophagus hannah OX=8665 PE=2 SV=1|sp|B6S2X2|CAMP_OPHHA	CATH
+Hh05G015396	Chr5	167380405	167386816	-	138	cathelicidin precursor [Hydrophis cyanocinctus]|gb|AKJ54480.1	CATH
+Hh06G015765	Chr6	14666241	14740208	+	1129	hephaestin-like protein 1 [Notechis scutatus]|ref|XP_026535684.1	MCO
+Hh06G015811	Chr6	19683424	19687533	-	99	"Platelet-derived growth factor D, partial [Ophiophagus hannah]|gb|ETE61538.1"	PDGF
+Hh06G015812	Chr6	19727302	19729855	-	162	platelet-derived growth factor D isoform X1 [Notechis scutatus]|ref|XP_026531408.1	PDGF
+Hh06G015957	Chr6	36060535	36070440	-	159	phospholipase A2-like [Notechis scutatus]|ref|XP_026537547.1	PLA2
+Hh06G015973	Chr6	36636764	36717593	+	369	venom prothrombin activator omicarin-C non-catalytic subunit-like [Notechis scutatus]|ref|XP_026537519.1	MCO
+Hh06G016116	Chr6	57120257	57148274	-	459	lipase member I [Notechis scutatus]|ref|XP_026519887.1	LIP
+Hh06G016441	Chr6	95292695	95300410	+	198	"Neuroligin-4, X-linked, partial [Ophiophagus hannah]|gb|ETE64560.1"	AChE/CES
+Hh06G016442	Chr6	95486425	95495523	+	595	"neuroligin-4, X-linked isoform X1 [Notechis scutatus]|ref|XP_026522679.1"	AChE/CES
+Hh06G016581	Chr6	109122977	109161243	-	817	Coagulation factor X OS=Tropidechis carinatus OX=100989 GN=F10 PE=2 SV=1|sp|Q4QXT9|FA10_TROCA	SVSP
+Hh06G016748	Chr6	143744166	143754745	-	227	translationally-controlled tumor protein [Pseudonaja textilis]|ref|XP_026561148.1	TCTP
+Hh07G017101	Chr7	30615083	30623996	-	207	group XIIA secretory phospholipase A2 [Pseudonaja textilis]|ref|XP_026554010.1	PLA2
+Hh07G017301	Chr7	55062758	55095478	+	362	ectonucleotide pyrophosphatase/phosphodiesterase family member 6 [Notechis scutatus]|ref|XP_026522957.1	PDE
+Hh07G017326	Chr7	59459570	59478904	+	247	vascular endothelial growth factor C [Notechis scutatus]|ref|XP_026522979.1	PDGF
+Hh07G017565	Chr7	88697007	88713768	+	128	platelet-derived growth factor C [Notechis scutatus]|ref|XP_026531626.1	PDGF
+Hh07G017566	Chr7	88741968	88749980	+	188	platelet-derived growth factor C [Pseudonaja textilis]|ref|XP_026555769.1	PDGF
+Hh07G017728	Chr7	96048306	96048542	+	78	Thamnophis elegans cystatin-like (LOC116520171)|ref|XM_032234322.1	CST
+Hh07G017729	Chr7	96058177	96067054	+	297	Thamnophis elegans cystatin-1-like (LOC116520167)|ref|XM_032234318.1	CST
+Hh07G017748	Chr7	96442838	96444427	+	142	cystatin-like [Notechis scutatus]|ref|XP_026542278.1	CST
+Hh07G017756	Chr7	96537317	96538856	+	142	cystatin-like [Notechis scutatus]|ref|XP_026542279.1	CST
+Hh07G017852	Chr7	99701460	99704811	+	152	vascular endothelial growth factor A-like [Notechis scutatus]|ref|XP_026547997.1	PDGF
+Hh08G018157	Chr8	7958257	8037962	-	429	Zinc metalloproteinase-disintegrin-like MTP4 OS=Drysdalia coronoides OX=66186 PE=1 SV=1|sp|F8RKW1|VM34_DRYCN	SVMP
+Hh08G018158	Chr8	8050055	8128803	+	255	porphyriacase-1 [Pseudechis porphyriacus]|gb|ABQ01133.1	SVMP
+Hh08G018160	Chr8	8178399	8204246	-	621	zinc metalloproteinase-disintegrin-like NaMP [Notechis scutatus]|ref|XP_026536946.1	SVMP
+Hh08G018161	Chr8	8225470	8284011	-	680	zinc metalloproteinase-disintegrin-like NaMP [Notechis scutatus]|ref|XP_026536947.1	SVMP
+Hh09G018735	Chr9	11234720	11259433	-	480	Pseudonaja textilis phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein-like (LOC113446001)|ref|XM_026715416.1	PLI
+Hh09G018736	Chr9	11269001	11281428	-	230	phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein-like [Notechis scutatus]|ref|XP_026537221.1	PLI
+Hh09G018747	Chr9	11567730	11572770	+	226	phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein-like [Notechis scutatus]|ref|XP_026537219.1	PLI
+Hh09G018748	Chr9	11577316	11592068	+	356	phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein-like [Notechis scutatus]|ref|XP_026537188.1	PLI
+Hh09G018751	Chr9	11638430	11647348	+	207	phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein-like [Python bivittatus]|ref|XP_007440058.1	PLI
+Hh09G018752	Chr9	11657878	11674311	+	131	phospholipase A2 inhibitor subunit gamma B-like [Thamnophis elegans]|ref|XP_032083013.1	PLI
+Hh09G018753	Chr9	11685053	11700167	+	310	phospholipase A2 inhibitor beta subunit isoform OMI-1B [Oxyuranus microlepidotus]|gb|AAF21048.1	PLI
+Hh09G018755	Chr9	11739364	11748822	+	220	phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein-like isoform X1 [Notechis scutatus]|ref|XP_026546759.1	PLI
+Hh09G018756	Chr9	11760687	11776425	-	132	"Thamnophis elegans phospholipase A2 inhibitor subunit gamma B-like (LOC116516034), transcript variant X2|ref|XM_032228389.1"	PLI
+Hh09G018757	Chr9	11790026	11792706	-	134	Pseudonaja textilis phospholipase A2 inhibitor subunit gamma B-like (LOC113452338)|ref|XM_026723791.1	PLI
+Hh09G018758	Chr9	11799434	11805182	-	123	phospholipase A2 inhibitor subunit gamma B-like [Pseudonaja textilis]|ref|XP_026579575.1	PLI
+Hh09G018759	Chr9	11831176	11838998	-	239	phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein-like [Pseudonaja textilis]|ref|XP_026579821.1	PLI
+Hh09G018825	Chr9	13957115	13960156	+	232	Serine protease harobin OS=Hydrophis hardwickii OX=8781 PE=1 SV=1|sp|Q5MCS0|VSPHA_HYDHA	SVSP
+Hh10G019063	Chr10	1117905	1129967	+	434	phosphatidylcholine-sterol acyltransferase isoform X1 [Notechis scutatus]|ref|XP_026539979.1	LIP
+Hh10G019067	Chr10	1167403	1201159	+	559	"fatty acyl-CoA hydrolase precursor, medium chain-like [Pseudonaja textilis]|ref|XP_026570245.1"	AChE/CES
+Hh10G019071	Chr10	1316614	1375330	+	522	liver carboxylesterase 1 isoform X2 [Notechis scutatus]|ref|XP_026544778.1	AChE/CES
+Hh10G019167	Chr10	7469696	7491726	-	412	group XV phospholipase A2 [Notechis scutatus]|ref|XP_026527867.1	LIP
+Hh10G019333	Chr10	22417653	22448915	+	602	cysteine-rich secretory protein LCCL domain-containing 2 [Notechis scutatus]|ref|XP_026539804.1	CRISP
+Hh11G019715	Chr11	14392065	14395706	+	118	Laticauda semifasciata phospholipase A2|dbj|AB078348.1	PLA2
+Hh11G019716	Chr11	14399054	14409108	-	99	Laticauda semifasciata phospholipase A2|dbj|AB111958.1	PLA2
+Hh11G019743	Chr11	15002247	15012761	-	561	group 3 secretory phospholipase A2 [Pseudonaja textilis]|ref|XP_026577964.1	PLA2
+Hh11G019942	Chr11	19127297	19149359	+	857	neuroligin-3 isoform X1 [Protobothrops mucrosquamatus]|ref|XP_015687979.1	AChE/CES
+Hh11G019987	Chr11	19819976	19836632	+	252	kunitz-type protease inhibitor 2 isoform X1 [Notechis scutatus]|ref|XP_026543549.1	vKUN
+Hh11G020022	Chr11	20243299	20244563	-	183	Pseudonaja textilis snake venom vascular endothelial growth factor toxin HF-like (LOC113450301)|ref|XM_026721476.1	svVEGF
+Hh11G020101	Chr11	21791612	21803919	-	456	glutaminyl-peptide cyclotransferase-like protein isoform X1 [Pseudonaja textilis]|ref|XP_026571289.1	QPCT
+Hh12G020327	Chr12	11356801	11392257	-	428	dipeptidyl peptidase 8 [Thamnophis sirtalis]|ref|XP_013920661.1	DPP
+Hh12G020432	Chr12	15693661	15712055	+	688	hepatic triacylglycerol lipase-like isoform X1 [Notechis scutatus]|ref|XP_026537841.1	LIP
+Hh12G020503	Chr12	18230143	18235316	-	353	reticulocalbin-2 [Pseudonaja textilis]|ref|XP_026565367.1	CREC
+Hh13G020698	Chr13	7050829	7097259	+	1165	hephaestin isoform X2 [Notechis scutatus]|ref|XP_026530410.1	MCO
+Hh13G020772	Chr13	12974825	13029446	-	2117	coagulation factor VIII [Pseudonaja textilis]|ref|XP_026558776.1	MCO
+Hh14G020926	Chr14	393504	395168	-	161	group 10 secretory phospholipase A2 [Notechis scutatus]|ref|XP_026539043.1	PLA2
+Hh14G021054	Chr14	4657165	4675779	+	146	platelet-derived growth factor subunit A isoform X2 [Pseudonaja textilis]|ref|XP_026560088.1	PDGF
+Hh14G021077	Chr14	5726328	5747103	-	669	sn1-specific diacylglycerol lipase beta [Notechis scutatus]|ref|XP_026543139.1	LIP
+Hh14G021328	Chr14	19649622	19670783	+	441	ectonucleotide pyrophosphatase/phosphodiesterase family member 7-like [Pseudonaja textilis]|ref|XP_026560358.1	PDE
+Hh15G021361	Chr15	2231684	2236947	-	304	ficolin-1-like [Pseudonaja textilis]|ref|XP_026574960.1	Ficolin
+Hh15G021629	Chr15	10602022	10609632	-	519	bile salt-activated lipase [Notechis scutatus]|ref|XP_026543082.1	AChE/CES
+Hh16G021833	Chr16	5198954	5206998	+	67	calmodulin-like protein 6 [Pseudonaja textilis]|ref|XP_026571607.1	CAL
+Hh16G021921	Chr16	7501652	7508179	+	252	Cadam10_PLA2-2 OS=Crotalus adamanteus OX=8729 GN=Pla2g2gC1 PE=2 SV=1|tr|J3RY63|J3RY63_CROAD	PLA2
+HhUnG022079	Scaffold20	1103209	1138290	-	142	veficolin-1-like [Thamnophis sirtalis]|ref|XP_013908244.1	Veficolin
+HhUnG022162	Scaffold24	776466	807162	-	533	putative phospholipase B-like 2 [Notechis scutatus]|ref|XP_026540386.1	PLB
+HhUnG022163	Scaffold24	806975	837720	+	568	putative phospholipase B-like 2 [Notechis scutatus]|ref|XP_026540386.1	PLB
+HhUnG022166	Scaffold25	474531	481700	+	117	Short neurotoxin SN160 OS=Hydrophis hardwickii OX=8781 PE=3 SV=1|sp|Q8UW27|3S116_HYDHA	3FTx
+HhUnG022176	Scaffold26	114886	115551	+	104	natriuretic peptides A-like [Pseudonaja textilis]|ref|XP_026577004.1	NP
+HhUnG022177	Scaffold26	118465	120751	+	135	natriuretic peptides A-like [Pseudonaja textilis]|ref|XP_026576981.1	NP
+HhUnG022178	Scaffold26	128573	139356	+	175	natriuretic peptides A-like [Notechis scutatus]|ref|XP_026546873.1	NP
+HhUnG022311	Scaffold35	124889	128991	-	264	ryncolin-3-like isoform X3 [Notechis scutatus]|ref|XP_026542112.1	Veficolin
+HhUnG022314	Scaffold35	155719	162777	+	139	ryncolin-3-like isoform X1 [Notechis scutatus]|ref|XP_026542110.1	Veficolin
+HhUnG022315	Scaffold35	170016	246595	+	156	veficolin-1-like [Thamnophis sirtalis]|ref|XP_013908244.1	Veficolin
+HhUnG022429	Scaffold49	261304	272682	+	248	peptidase inhibitor R3HDML [Pseudonaja textilis]|ref|XP_026553090.1	CRISP
+HhUnG022443	Scaffold52	75212	155477	-	1621	venom factor [Austrelaps superbus]|gb|AAX86641.1	VF
+HhUnG022444	Scaffold52	170925	270564	-	1608	A.superbus venom factor 1 OS=Austrelaps superbus OX=29156 PE=1 SV=1|sp|Q0ZZJ6|VCO31_AUSSU	VF
+HhUnG022445	Scaffold52	289384	322843	-	802	A.superbus venom factor 1 OS=Austrelaps superbus OX=29156 PE=1 SV=1|sp|Q0ZZJ6|VCO31_AUSSU	VF
+HhUnG022502	Scaffold63	26645	78255	-	80	Cysteine-rich venom protein 1 OS=Hydrophis hardwickii OX=8781 PE=2 SV=2|sp|Q8UW25|CRVP1_HYDHA	CRISP
+HhUnG022504	Scaffold63	149383	167403	+	152	cysteine-rich venom protein pseudechetoxin-like [Notechis scutatus]|ref|XP_026546646.1	CRISP
+HhUnG022505	Scaffold63	280200	313746	+	110	Cysteine-rich venom protein 2 OS=Hydrophis hardwickii OX=8781 PE=2 SV=2|sp|Q8UW11|CRVP2_HYDHA	CRISP
+Hh03G023188	Chr3	6113210	6117957	+	81	Short neurotoxin 1 OS=Hydrophis hardwickii OX=8781 PE=1 SV=2|sp|P68416|	3FTx
+Hh03G023189	Chr3	6142065	6146806	+	81	Short neurotoxin 1 OS=Hydrophis hardwickii OX=8781 PE=1 SV=2|sp|P68416|	3FTx
+Hh03G023190	Chr3	6170823	6182186	+	81	Short neurotoxin 1 OS=Hydrophis hardwickii OX=8781 PE=1 SV=2|sp|P68416|	3FTx
+HhUnG023191	Scaffold25	308046	319416	-	81	Short neurotoxin 1 OS=Hydrophis hardwickii OX=8781 PE=1 SV=2|sp|P68416|	3FTx
+HhUnG023192	Scaffold25	343430	348226	-	81	Short neurotoxin 1 OS=Hydrophis hardwickii OX=8781 PE=1 SV=2|sp|P68416|	3FTx
