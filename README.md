@@ -1,11 +1,23 @@
 
-# Sea Snake Proteome Analysis
+# 🐍 Sea Snake Proteome Analysis
 
-This repository contains the code and data for the analysis of sea snake proteome.
+Welcome to the Sea Snake Proteome Analysis repository! 🌊🐍 This project explores the fascinating world of sea snake proteomes, providing insights through various analyses.
 
 ### 													*Hydrophis curtus*
 
 ![Hydrophis curtus](https://s2.loli.net/2024/01/26/YbplwyGkjr1XxaA.png)
+
+## Author
+
+🚀 **FancyGo** 🚀 
+Explore more on [FancyGo's Blog](https://fancygozheng.github.io/Blog/) 📚
+
+
+## sea_snake_toxin_database
+```R
+https://fancygoapp.shinyapps.io/sea_snake_toxin_database/
+```
+
 ## Directory Structure
 
 - [🖼️Fig🖼️](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/Fig)
