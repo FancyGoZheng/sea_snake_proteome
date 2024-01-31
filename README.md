@@ -8,9 +8,15 @@ This repository contains the code and data for the analysis of sea snake proteom
 ![Hydrophis curtus](https://s2.loli.net/2024/01/26/YbplwyGkjr1XxaA.png)
 ## Directory Structure
 
+- [🖼️Fig🖼️](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/Fig)
+  - [Fig1](https://github.com/FancyGoZheng/sea_snake_proteome/blob/main/Fig/Fig1.png)
+  - [Fig2](https://github.com/FancyGoZheng/sea_snake_proteome/blob/main/Fig/Fig2.png)
+  - [Fig3](https://github.com/FancyGoZheng/sea_snake_proteome/blob/main/Fig/Fig3.png)
+  - [Fig4](https://github.com/FancyGoZheng/sea_snake_proteome/blob/main/Fig/Fig4.png)
+  - [Fig5](https://github.com/FancyGoZheng/sea_snake_proteome/blob/main/Fig/Fig5.png)
+  - [Fig6](https://github.com/FancyGoZheng/sea_snake_proteome/blob/main/Fig/Fig6.png)
 
-
-- [🚀data_analysis](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/data_analysis)
+- [🚀data_analysis🚀](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/data_analysis)
   - [Batch_Evolution_Tree](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/data_analysis/Batch_Evolution_Tree)
   - [PTM](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/data_analysis/PTM)
   - [RMSD_Cor_clust](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/data_analysis/RMSD_Cor_clust)
@@ -21,8 +27,7 @@ This repository contains the code and data for the analysis of sea snake proteom
     - [4.Calculate_RMSD](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/data_analysis/Toxin_PDB/4.Calculate_RMSD)
   - [VF_Oxidative_Analysis](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/data_analysis/VF_Oxidative_Analysis)
   
-- [✏️visualization](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/visualization)
+- [✏️visualization✏️](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/visualization)
   - [Seq_Alignment](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/visualization/Seq_Alignment)
   - [iTOL_annotation](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/visualization/iTOL_annotation)
   - [shiny](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/visualization/shiny)
-- [🖼️Fig](https://github.com/FancyGoZheng/sea_snake_proteome/tree/main/Fig)
