@@ -3,7 +3,7 @@
 IFS=$'\n'
 #IFS=$IFS.OLD
 c=0
-for line in ` cat list2.txt |awk '{print $1}'`
+for line in ` cat INPUT_1_bash_list2.txt |awk '{print $1}'`
 do
   account1=$line
   accounts1[$c]=$account1
@@ -11,14 +11,14 @@ do
   mkdir -p  $line
 done
 d=0
-for lines in ` cat list2.txt |awk '{print $2}'`
+for lines in ` cat INPUT_1_bash_list2.txt |awk '{print $2}'`
 do
   account2=$lines
   accounts2[$d]=$account2
   ((d++))
 done
 e=0
-for lines3 in ` cat list2.txt |awk '{print $3}'`
+for lines3 in ` cat INPUT_1_bash_list2.txt |awk '{print $3}'`
 do
   account3=$lines3
   accounts3[$e]=$account3
