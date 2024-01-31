@@ -1,0 +1,25 @@
+struction	start	end
+Signal	1	22
+Chain	23	649
+Chain	23	1642
+Glycosylation	153	153
+Glycosylation	158	158
+Glycosylation	209	209
+Disulfide bond	544	801
+Disulfide bond	609	644
+Propeptide	650	732
+Disulfide bond	677	704
+Disulfide bond	678	711
+Disulfide bond	691	712
+Chain	733	984
+Disulfide bond	857	1492
+Propeptide	985	1263
+Cross-link	993	996
+Chain	1264	1642
+Disulfide bond	1340	1468
+Glycosylation	1346	1346
+Disulfide bond	1368	1437
+Disulfide bond	1485	1490
+Disulfide bond	1497	1569
+Disulfide bond	1516	1640
+Disulfide bond	1616	1625

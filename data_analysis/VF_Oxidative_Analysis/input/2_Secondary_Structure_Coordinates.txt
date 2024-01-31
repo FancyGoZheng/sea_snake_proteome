@@ -1,0 +1,119 @@
+struction	start	end	struction
+Beta strand:24-35	24	35	Beta strand
+Beta strand:42-47	42	47	Beta strand
+Beta strand:52-61	52	61	Beta strand
+Beta strand:66-75	66	75	Beta strand
+Helix:77-79	77	79	Helix
+Beta strand:81-83	81	83	Beta strand
+Helix:91-93	91	93	Helix
+Beta strand:103-110	103	110	Beta strand
+Beta strand:113-122	113	122	Beta strand
+Beta strand:128-133	128	133	Beta strand
+Beta strand:135-137	135	137	Beta strand
+Beta strand:145-150	145	150	Beta strand
+Beta strand:161-166	161	166	Beta strand
+Beta strand:172-179	172	179	Beta strand
+Beta strand:195-203	195	203	Beta strand
+Beta strand:210-216	210	216	Beta strand
+Beta strand:223-236	223	236	Beta strand
+Beta strand:243-251	243	251	Beta strand
+Beta strand:259-269	259	269	Beta strand
+Beta strand:272-275	272	275	Beta strand
+Helix:277-279	277	279	Helix
+Beta strand:281-286	281	286	Beta strand
+Beta strand:289-294	289	294	Beta strand
+Helix:296-302	296	302	Helix
+Helix:306-309	306	309	Helix
+Beta strand:313-322	313	322	Beta strand
+Beta strand:328-342	328	342	Beta strand
+Beta strand:344-346	344	346	Beta strand
+Beta strand:352-354	352	354	Beta strand
+Beta strand:360-367	360	367	Beta strand
+Beta strand:378-381	378	381	Beta strand
+Helix:382-384	382	384	Helix
+Beta strand:386-389	386	389	Beta strand
+Beta strand:394-400	394	400	Beta strand
+Beta strand:407-415	407	415	Beta strand
+Beta strand:418-420	418	420	Beta strand
+Helix:422-424	422	424	Helix
+Beta strand:427-434	427	434	Beta strand
+Helix:438-440	438	440	Helix
+Beta strand:444-449	444	449	Beta strand
+Beta strand:459-468	459	468	Beta strand
+Helix:470-474	470	474	Helix
+Beta strand:478-485	478	485	Beta strand
+Beta strand:488-496	488	496	Beta strand
+Beta strand:502-509	502	509	Beta strand
+Helix:512-514	512	514	Helix
+Beta strand:516-526	516	526	Beta strand
+Turn:527-529	527	529	Turn
+Beta strand:530-539	530	539	Beta strand
+Beta strand:548-551	548	551	Beta strand
+Beta strand:562-570	562	570	Beta strand
+Beta strand:574-581	574	581	Beta strand
+Helix:582-587	582	587	Helix
+Helix:589-591	589	591	Helix
+Helix:595-604	595	604	Helix
+Beta strand:610-612	610	612	Beta strand
+Helix:617-623	617	623	Helix
+Beta strand:626-630	626	630	Beta strand
+Helix:742-744	742	744	Helix
+Beta strand:753-755	753	755	Beta strand
+Beta strand:759-761	759	761	Beta strand
+Beta strand:772-779	772	779	Beta strand
+Beta strand:784-795	784	795	Beta strand
+Turn:796-798	796	798	Turn
+Beta strand:799-802	799	802	Beta strand
+Beta strand:806-810	806	810	Beta strand
+Beta strand:813-818	813	818	Beta strand
+Beta strand:830-838	830	838	Beta strand
+Beta strand:840-842	840	842	Beta strand
+Beta strand:844-850	844	850	Beta strand
+Beta strand:856-859	856	859	Beta strand
+Beta strand:862-864	862	864	Beta strand
+Beta strand:866-872	866	872	Beta strand
+Beta strand:876-886	876	886	Beta strand
+Beta strand:888-900	888	900	Beta strand
+Beta strand:906-916	906	916	Beta strand
+Beta strand:918-930	918	930	Beta strand
+Helix:932-935	932	935	Helix
+Beta strand:937-945	937	945	Beta strand
+Beta strand:959-967	959	967	Beta strand
+Beta strand:1274-1280	1274	1280	Beta strand
+Beta strand:1282-1286	1282	1286	Beta strand
+Beta strand:1288-1293	1288	1293	Beta strand
+Helix:1294-1296	1294	1296	Helix
+Beta strand:1301-1307	1301	1307	Beta strand
+Beta strand:1311-1318	1311	1318	Beta strand
+Beta strand:1321-1331	1321	1331	Beta strand
+Beta strand:1342-1351	1342	1351	Beta strand
+Beta strand:1363-1371	1363	1371	Beta strand
+Beta strand:1373-1375	1373	1375	Beta strand
+Beta strand:1377-1385	1377	1385	Beta strand
+Beta strand:1390-1393	1390	1393	Beta strand
+Helix:1394-1401	1394	1401	Helix
+Beta strand:1406-1408	1406	1408	Beta strand
+Beta strand:1417-1419	1417	1419	Beta strand
+Beta strand:1421-1430	1421	1430	Beta strand
+Beta strand:1432-1434	1432	1434	Beta strand
+Beta strand:1436-1444	1436	1444	Beta strand
+Beta strand:1454-1460	1454	1460	Beta strand
+Beta strand:1469-1473	1469	1473	Beta strand
+Beta strand:1474-1476	1474	1476	Beta strand
+Beta strand:1483-1486	1483	1486	Beta strand
+Beta strand:1489-1492	1489	1492	Beta strand
+Helix:1508-1515	1508	1515	Helix
+Beta strand:1522-1534	1522	1534	Beta strand
+Beta strand:1537-1549	1537	1549	Beta strand
+Helix:1556-1558	1556	1558	Helix
+Beta strand:1561-1566	1561	1566	Beta strand
+Helix:1567-1569	1567	1569	Helix
+Helix:1570-1573	1570	1573	Helix
+Beta strand:1580-1585	1580	1585	Beta strand
+Helix:1587-1589	1587	1589	Helix
+Beta strand:1596-1600	1596	1600	Beta strand
+Beta strand:1602-1604	1602	1604	Beta strand
+Beta strand:1606-1610	1606	1610	Beta strand
+Helix:1614-1617	1614	1617	Helix
+Turn:1619-1621	1619	1621	Turn
+Helix:1622-1638	1622	1638	Helix
