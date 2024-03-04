@@ -8,7 +8,7 @@ library(reshape2)
 ########### input data
 rmsd.data <- read.table("INPUT/3FTx.txt",row.names = 1)
 pla2 <- read.table("INPUT/PLA2.txt",row.names = 1)
-
+crisp <- read.table("INPUT/CRISP.txt",row.names = 1)
 
 
 ############### 聚类实现
@@ -40,9 +40,16 @@ clust <- function(data,method,n)
 clust(rmsd.data,"centroid",3)
 clust(pla2,"centroid",2)
 
+
 ## pla2
 clust(pla2,"ward.D",2)
 #  方法："ward.D", "ward.D2", "single", "complete", "average" (= UPGMA), "mcquitty" (= WPGMA), "median" (= WPGMC) or "centroid" (= UPGMC).
+
+## crisp
+clust(crisp,"ward.D",5)
+
+# 画出来的图下方坐标标签太长，没有显示出来
+
 
 ####################### 聚类结束
 
